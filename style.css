@@ -37,7 +37,7 @@ body {
     position: absolute;
     background: #ebebeb;
     width: 53%;
-    height: 35%;
+    height: 38%;
     margin-top: 1%;
     overflow: auto;
     line-height: 400%;
@@ -48,7 +48,7 @@ body {
     position: relative;
     background: #ebebeb;
     width: 45%;
-    height: 35%;
+    height: 38%;
     margin-top: 1%;
     overflow: auto;
     vertical-align: middle;
@@ -62,7 +62,7 @@ body {
     color: #ebebeb;
     margin-top: 8%;
     margin-left: 1%;
-    height: 24%;
+    height: 25%;
     line-height: 400%;
     width: 51%;
     padding-bottom: 1%;
@@ -83,34 +83,29 @@ body {
 h1, h2, h3 {
     color: #777;
     display: inline-block;
-    /* line-height: 10%; */
-    
 
 }
 
 p {
     color: #777;
     line-height: 50%;
-    
 
 }
 
 .p-container {
     background: #ebebeb;
     position: absolute;
-    margin-top: 12%;
+    margin-top: 11%;
     margin-left: 4%;
     height: 27%;
     width: 92%;
 }
 
-
-
 .footer {
     background: #ebebeb;
     position: absolute;
     width: 100%;
-    bottom: 26%;
+    bottom: 22%;
     padding-top: 30px;
     padding-bottom: 30px;
 }
